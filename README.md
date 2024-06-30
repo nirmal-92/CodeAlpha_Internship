@@ -5,4 +5,4 @@ Task 1:
 Task 2:
   I have made a presentation on Phishing Attacks and how to safegaurd from Phishing Attacks. This presentation includes Types of attcaks, Examples of attacks, Measures etc..
 Task 3:
-  
+  I have used CodeScene online tool to visualize and analyze the code to find vulnerabilities in my projects.
